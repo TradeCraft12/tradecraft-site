@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TradeCraft</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>TradeCraft</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="strategies.html">Strategies</a>
+      <a href="notes.html">Notes</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="video-section">
+      <h2>Pro Trader Videos</h2>
+      <div class="video-grid">
+        <iframe src="https://www.youtube.com/embed/2e4d3I1vJ0g" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/1YyAzVmP3v0" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/3nJ1N1U1z1A" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 TradeCraft. Built for day traders, by day traders.</p>
+  </footer>
+</body>
+</html>
